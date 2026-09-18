@@ -103,5 +103,5 @@ JDBC connection, SQLite driver, SQL table creation, prepared statements, inserti
 SQLite is accessed through JDBC. The application automatically creates `data/library.db`; no separate database server is required.
 
 ## Student Details
-Name: Shaurya Das
-Registration Number: 24BAC10028
+Name: Anshuman Modgil
+Registration Number: 24BAC10041
