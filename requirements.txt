@@ -1,0 +1,2 @@
+# Java dependencies are managed by Maven in pom.xml.
+# Requires JDK 17+ and Maven 3.8+.
